@@ -1,0 +1,36 @@
+﻿/* general styles */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  padding-top: 35px;
+  /*  overflow: hidden; */
+}
+
+/* vertical-centered text */
+.text-vcenter {
+  text-align: center;
+  vertical-align: top;
+}
+.text-vcenter h1 {
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+.info {
+  position: relative;
+  width: 100%;
+  padding: 25px;
+}
+.responsive {
+  width: 50%;
+  height: auto;
+}
+/* Rounded border */
+hr.rounded {
+  border-top: 0.5px solid #0e7757;
+  border-radius: 5px;
+}
