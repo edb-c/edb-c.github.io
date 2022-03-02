@@ -23,7 +23,8 @@ body {
 .info {
   position: relative;
   width: 100%;
-  padding: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 .responsive {
   width: 50%;
